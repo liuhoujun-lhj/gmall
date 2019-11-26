@@ -1,4 +1,4 @@
-package com.atguigu.gmall.gmallusermanage.mapper;
+package com.atguigu.gmall.user.mapper;
 
 
 import com.atguigu.gmall.bean.UmsMember;
