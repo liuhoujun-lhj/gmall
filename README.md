@@ -9,4 +9,4 @@
     
     后管tomcat dubbo-admin 地址: http://172.16.230.10:8080/dubbo
         账号: root   
-        密码: root
+        密码: root 
